@@ -1,0 +1,19 @@
+{
+  "slug": "java",
+  "language": "Java",
+  "repository": "https://github.com/hanumakanthvvn/x-java",
+  "active": true,
+  "problems": [
+    "hamming"
+  ],
+  "deprecated": [
+    "octal",
+    "point-mutations"
+  ],
+  "ignored": [
+
+  ],
+  "foregone": [
+
+  ]
+}
