@@ -4,8 +4,7 @@
   "repository": "https://github.com/hanumakanthvvn/x-java",
   "active": true,
   "problems": [
-    "hamming",
-    "bob"
+    "web-crawler"
   ],
   "deprecated": [
     "octal",
