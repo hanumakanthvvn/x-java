@@ -4,6 +4,10 @@
   "repository": "https://github.com/hanumakanthvvn/x-java",
   "active": true,
   "problems": [
+    "word-count",
+    "dominoes",
+    "queen-attack",
+    "largest-series-product",
     "web-crawler",
     "file-compare"
   ],
