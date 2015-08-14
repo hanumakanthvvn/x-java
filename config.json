@@ -10,7 +10,8 @@
     "largest-series-product",
     "web-crawler",
     "file-compare",
-    "minesweeper"
+    "minesweeper",
+    "inventory-management"
   ],
   "deprecated": [
     "octal",
