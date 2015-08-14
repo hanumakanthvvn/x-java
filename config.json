@@ -9,7 +9,8 @@
     "queen-attack",
     "largest-series-product",
     "web-crawler",
-    "file-compare"
+    "file-compare",
+    "minesweeper"
   ],
   "deprecated": [
     "octal",
